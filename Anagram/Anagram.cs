@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Task1Anagram
+namespace Anagram
 {
     public class Anagram
     {

@@ -1,10 +1,10 @@
 ﻿using System.Xml;
 
-namespace Task1Anagram
+namespace Anagram
 {
     public class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Enter word or sentence: ");
             string sentence = Console.ReadLine();
